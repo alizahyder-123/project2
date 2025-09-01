@@ -16,7 +16,7 @@ _this is project_\
    1. faculty
    1.faculty 2
 - image
-- google
+- googlee
 - insta
 - facebook\
  H<sub>2<\sub>o\
